@@ -8,7 +8,7 @@ on windows you have program called FC. Can be runned from commandline:
 >>	FC file-old.js file-new.js
 
 Reflect: Manual Commits
-By committing manually instead of automaticall, you can decide what to commit and when.
+By committing manually instead of automatically, you can decide what to commit and when.
 This gives the opportunity to split the commits based on functionality. 
 By committing manually you can specify commit messages describing what has changed, instead of only showing an auto commit.
 
